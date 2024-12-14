@@ -12,7 +12,7 @@ const ContactUs = () => {
     <div className="container mx-auto w-full lg:w-[77.5%] px-4 py-12">
       {/* Header */}
       <div className="text-center mb-12 w-[90vw] lg:w-[600px] mx-auto">
-        <h2 className="text-3xl font-bold mb-4">Get In Touch With Us</h2>
+        <h2 className="text-3xl font-bold mb-4 text-[#000000]">Get In Touch With Us</h2>
         <p className="text-[#9F9F9F]">
           For More Information About Our Product & Services. Please Feel Free To
           Drop Us An Email. Our Staff Always Be There To Help You Out. Do Not
@@ -34,8 +34,8 @@ const ContactUs = () => {
               ></Image>
             </div>
             <div className="w-[212px] h-[57px]">
-              <h4 className="font-semibold text-lg">Address</h4>
-              <p className="text-gray-600">
+              <h4 className="font-semibold text-lg text-[#000000]">Address</h4>
+              <p className="text-[#000000]">
                 203 St. Mountain Avenue, New York, NY 10010, United States
               </p>
             </div>
@@ -47,9 +47,9 @@ const ContactUs = () => {
               <Image src={phone} alt="Phone Icon" className="h-6 w-6"></Image>
             </div>
             <div className="w-[212px] h-[57px]">
-              <h4 className="font-semibold text-lg">Phone</h4>
-              <p className="text-gray-600">Mobile: +880 546 9789</p>
-              <p className="text-gray-600">Hotline: +880 456 9798</p>
+              <h4 className="font-semibold text-lg text-[#000000]">Phone</h4>
+              <p className="text-[#000000]">Mobile: +880 546 9789</p>
+              <p className="text-[#000000]">Hotline: +880 456 9798</p>
             </div>
           </div>
 
@@ -59,9 +59,9 @@ const ContactUs = () => {
               <Image src={clock} alt="Clock Icon" className="h-6 w-6"></Image>
             </div>
             <div className="w-[212px] h-[57px]">
-              <h4 className="font-semibold text-lg">Working Time</h4>
-              <p className="text-gray-600">Monday - Friday: 9:00 - 20:00</p>
-              <p className="text-gray-600">Saturday - Sunday: 9:00 - 21:00</p>
+              <h4 className="font-semibold text-lg text-[#000000]">Working Time</h4>
+              <p className="text-[#000000]">Monday - Friday: 9:00 - 20:00</p>
+              <p className="text-[#000000]">Saturday - Sunday: 9:00 - 21:00</p>
             </div>
           </div>
         </div>
@@ -71,7 +71,7 @@ const ContactUs = () => {
           <form className="space-y-6">
             <div className="grid grid-cols-2 gap-4">
               <div className="flex-col">
-                <h1>Your Name</h1>
+                <h1 className="text-[#000000]">Your Name</h1>
                 <input
                   type="text"
                   placeholder="Abc"
@@ -80,7 +80,7 @@ const ContactUs = () => {
               </div>
               <br />
               <div className="flex-col mt-4 ">
-                <h2>Email Address</h2>
+                <h2 className="text-[#000000]">Email Address</h2>
                 <input
                   type="email"
                   placeholder="Abc@def.com"
@@ -89,7 +89,7 @@ const ContactUs = () => {
               </div>
             </div>
             <div className="flex-col mt-4">
-              <h1>Subject</h1>
+              <h1 className="text-[#000000]">Subject</h1>
               <input
                 type="text"
                 placeholder="This is an optional"
@@ -97,7 +97,7 @@ const ContactUs = () => {
               />
             </div>
             <div className="flex-col mt-4">
-                <h1 className="w-[115.5px] h-[24px] font-medium text-[16px] leading-[24px]">Message</h1>
+                <h1 className="w-[115.5px] h-[24px] font-medium text-[16px] leading-[24px] text-[#000000]">Message</h1>
               <textarea
                 placeholder="Hi! i’d like to ask about"
                 
