@@ -77,12 +77,12 @@ const ProductPage = () => {
               <div className="flex ">
                 <div className="w-[81%]">
                   <h3
-                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px]`}
+                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
                   >
                     Library Stool Chair
                   </h3>
                   <p
-                    className={`mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
+                    className={`text-[#272343] mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
                   >
                     $20
                   </p>
@@ -108,12 +108,12 @@ const ProductPage = () => {
               <div className="flex ">
                 <div className="w-[81%]">
                   <h3
-                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px]`}
+                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
                   >
                     Library Stool Chair
                   </h3>
                   <p
-                    className={`mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
+                    className={ ` text-[#272343] mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
                   >
                     $20
                   </p>
@@ -139,12 +139,12 @@ const ProductPage = () => {
               <div className="flex ">
                 <div className="w-[81%]">
                   <h3
-                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px]`}
+                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
                   >
                     Library Stool Chair
                   </h3>
                   <p
-                    className={`mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
+                    className={`text-[#272343] mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
                   >
                     $20
                   </p>
@@ -178,12 +178,12 @@ const ProductPage = () => {
               <div className="flex ">
                 <div className="w-[81%]">
                   <h3
-                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px] h-[21px]`}
+                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px] h-[21px] text-[#272343]`}
                   >
                     Library Stool Chair
                   </h3>
                   <p
-                    className={`mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold  `}
+                    className={`text-[#272343] mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold  `}
                   >
                     $20
                   </p>
@@ -213,12 +213,12 @@ const ProductPage = () => {
               <div className="flex ">
                 <div className="w-[81%]">
                   <h3
-                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px]`}
+                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
                   >
                     Library Stool Chair
                   </h3>
                   <p
-                    className={`mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
+                    className={`text-[#272343] mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
                   >
                     $20
                   </p>
@@ -244,12 +244,12 @@ const ProductPage = () => {
               <div className="flex ">
                 <div className="w-[81%]">
                   <h3
-                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px]`}
+                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
                   >
                     Library Stool Chair
                   </h3>
                   <p
-                    className={`mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
+                    className={`text-[#272343] mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
                   >
                     $20
                   </p>
@@ -275,12 +275,12 @@ const ProductPage = () => {
               <div className="flex ">
                 <div className="w-[81%]">
                   <h3
-                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px]`}
+                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
                   >
                     Library Stool Chair
                   </h3>
                   <p
-                    className={`mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
+                    className={` text-[#272343] mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
                   >
                     $20
                   </p>
@@ -314,12 +314,12 @@ const ProductPage = () => {
               <div className="flex ">
                 <div className="w-[81%]">
                   <h3
-                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px] h-[21px]`}
+                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px] h-[21px] text-[#272343]`}
                   >
                     Library Stool Chair
                   </h3>
                   <p
-                    className={`mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold  `}
+                    className={`text-[#272343] mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold  `}
                   >
                     $20
                   </p>
@@ -349,12 +349,12 @@ const ProductPage = () => {
               <div className="flex ">
                 <div className="w-[81%]">
                   <h3
-                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px]`}
+                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
                   >
                     Library Stool Chair
                   </h3>
                   <p
-                    className={`mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
+                    className={`text-[#272343] mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
                   >
                     $20
                   </p>
@@ -380,12 +380,12 @@ const ProductPage = () => {
               <div className="flex ">
                 <div className="w-[81%]">
                   <h3
-                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px]`}
+                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
                   >
                     Library Stool Chair
                   </h3>
                   <p
-                    className={`mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
+                    className={`text-[#272343] mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
                   >
                     $20
                   </p>
@@ -411,12 +411,12 @@ const ProductPage = () => {
               <div className="flex ">
                 <div className="w-[81%]">
                   <h3
-                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px]`}
+                    className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
                   >
                     Library Stool Chair
                   </h3>
                   <p
-                    className={`mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
+                    className={`text-[#272343] mt-2 w-[35px] h-[20px] gap-[4px] ${inter.className} text-[18px] leading-[19.8px] font-bold `}
                   >
                     $20
                   </p>
