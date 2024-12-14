@@ -11,7 +11,7 @@ const CartPage = () => {
       <div className="flex flex-col lg:flex-row gap-10 lg:gap-20 justify-between">
         {/* Bag Section */}
         <div className="flex-1">
-          <h2 className="text-2xl font-semibold mb-6">Bag</h2>
+          <h2 className="text-2xl font-semibold mb-6 text-[#111111]">Bag</h2>
 
           {/* Product 1 */}
           <div className="flex  lg:justify-between border-b pb-10  mb-5 ">
