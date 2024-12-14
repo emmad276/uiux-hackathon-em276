@@ -39,8 +39,8 @@ const ProductPage = () => {
                   New
                 </span>
               </div>
-              <div className="flex ">
-                <div className="w-[81%]">
+              <div className="flex justify-between">
+                <div className="w-[81%] ">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px] text-[#007580] h-[21px]`}
                   >
@@ -74,7 +74,7 @@ const ProductPage = () => {
                   Sales
                 </span>
               </div>
-              <div className="flex ">
+              <div className="flex  justify-between">
                 <div className="w-[81%]">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
@@ -105,7 +105,7 @@ const ProductPage = () => {
                   className="w-full h-full object-cover"
                 ></Image>
               </div>
-              <div className="flex ">
+              <div className="flex justify-between">
                 <div className="w-[81%]">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
@@ -136,8 +136,8 @@ const ProductPage = () => {
                   className="w-full h-full object-cover"
                 ></Image>
               </div>
-              <div className="flex ">
-                <div className="w-[81%]">
+              <div className="flex justify-between">
+                <div className="w-[81%] ">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
                   >
@@ -175,7 +175,7 @@ const ProductPage = () => {
                   New
                 </span>
               </div>
-              <div className="flex ">
+              <div className="flex justify-between">
                 <div className="w-[81%]">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px] h-[21px] text-[#272343]`}
@@ -210,7 +210,7 @@ const ProductPage = () => {
                   Sales
                 </span>
               </div>
-              <div className="flex ">
+              <div className="flex justify-between">
                 <div className="w-[81%]">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
@@ -241,7 +241,7 @@ const ProductPage = () => {
                   className="w-full h-full object-cover"
                 ></Image>
               </div>
-              <div className="flex ">
+              <div className="flex justify-between">
                 <div className="w-[81%]">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
@@ -272,7 +272,7 @@ const ProductPage = () => {
                   className="w-full h-full object-cover"
                 ></Image>
               </div>
-              <div className="flex ">
+              <div className="flex justify-between">
                 <div className="w-[81%]">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
@@ -311,7 +311,7 @@ const ProductPage = () => {
                   New
                 </span>
               </div>
-              <div className="flex ">
+              <div className="flex justify-between">
                 <div className="w-[81%]">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px] h-[21px] text-[#272343]`}
@@ -346,7 +346,7 @@ const ProductPage = () => {
                   Sales
                 </span>
               </div>
-              <div className="flex ">
+              <div className="flex justify-between">
                 <div className="w-[81%]">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
@@ -377,7 +377,7 @@ const ProductPage = () => {
                   className="w-full h-full object-cover"
                 ></Image>
               </div>
-              <div className="flex ">
+              <div className="flex justify-between">
                 <div className="w-[81%]">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
@@ -408,7 +408,7 @@ const ProductPage = () => {
                   className="w-full h-full object-cover"
                 ></Image>
               </div>
-              <div className="flex ">
+              <div className="flex justify-between">
                 <div className="w-[81%]">
                   <h3
                     className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]  h-[21px] text-[#272343]`}
