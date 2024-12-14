@@ -62,10 +62,10 @@ const ProductCard = () => {
             </div>
             <div className="flex items-center">
               <div className='w-[81%]'>
-                <h3 className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]`}>
+                <h3 className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px] text-[#272343]`}>
                   Library Stool Chair
                 </h3>
-                <p className={`mt-2 ${inter.className} text-[18px] leading-[19.8px] font-bold`}>
+                <p className={`mt-2 ${inter.className} text-[18px] leading-[19.8px] font-bold text-[#272343]`}>
                   $20
                 </p>
               </div>
@@ -86,10 +86,10 @@ const ProductCard = () => {
             </div>
             <div className="flex items-center">
               <div className='w-[81%]'>
-                <h3 className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]`}>
+                <h3 className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px] text-[#272343]`}>
                   Library Stool Chair
                 </h3>
-                <p className={`mt-2 ${inter.className} text-[18px] leading-[19.8px] font-bold`}>
+                <p className={`mt-2 ${inter.className} text-[18px] leading-[19.8px] font-bold text-[#272343]`}>
                   $20
                 </p>
               </div>
@@ -110,10 +110,10 @@ const ProductCard = () => {
             </div>
             <div className="flex items-center">
               <div className='w-[81%]'>
-                <h3 className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px]`}>
+                <h3 className={`mt-3 ${inter.className} font-normal text-[16px] leading-[20.08px] text-[#272343]`}>
                   Library Stool Chair
                 </h3>
-                <p className={`mt-2 ${inter.className} text-[18px] leading-[19.8px] font-bold`}>
+                <p className={`mt-2 ${inter.className} text-[18px] leading-[19.8px] font-bold text-[#272343]`}>
                   $20
                 </p>
               </div>
