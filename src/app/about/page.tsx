@@ -39,7 +39,7 @@ export default function HomePage() {
 
         {/* Brand Difference Section */}
         <div className="mb-12 pt-9">
-          <h2 className="text-2xl font-semibold mb-8 text-center">
+          <h2 className="text-2xl font-semibold mb-8 text-center text-[#272343]">
             What Makes Our Brand Different
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -97,7 +97,7 @@ export default function HomePage() {
 
         {/* Popular Products Section */}
         <div className="pt-8">
-          <h2 className="text-2xl font-semibold mb-8 text-center lg:text-start">Our Popular Products</h2>
+          <h2 className="text-2xl font-semibold mb-8 text-center lg:text-start text-[#272343]">Our Popular Products</h2>
           <div className="flex flex-wrap gap-6 lg:flex-nowrap space-y-5 lg:space-y-0">
             {/* First Card - Wider */}
             <div className="w-full lg:w-[50%]">
