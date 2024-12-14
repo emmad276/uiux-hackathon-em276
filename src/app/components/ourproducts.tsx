@@ -77,7 +77,7 @@ const OurProducts = () => {
             <div className="flex items-center mt-3 px-3">
               <div className="flex-1">
                 <h3
-                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#007580]`}
+                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#272343]`}
                 >
                   Library Stool Chair
                 </h3>
@@ -108,7 +108,7 @@ const OurProducts = () => {
             <div className="flex items-center mt-3 px-3">
               <div className="flex-1">
                 <h3
-                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#007580]`}
+                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#272343]`}
                 >
                   Library Stool Chair
                 </h3>
@@ -139,7 +139,7 @@ const OurProducts = () => {
             <div className="flex items-center mt-3 px-3">
               <div className="flex-1">
                 <h3
-                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#007580]`}
+                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#272343]`}
                 >
                   Library Stool Chair
                 </h3>
@@ -171,7 +171,7 @@ const OurProducts = () => {
             <div className="flex items-center mt-3 px-3">
               <div className="flex-1">
                 <h3
-                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#007580]`}
+                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#272343]`}
                 >
                   Library Stool Chair
                 </h3>
@@ -204,7 +204,7 @@ const OurProducts = () => {
             <div className="flex items-center mt-3 px-3">
               <div className="flex-1">
                 <h3
-                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#007580]`}
+                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#272343]`}
                 >
                   Library Stool Chair
                 </h3>
@@ -235,7 +235,7 @@ const OurProducts = () => {
             <div className="flex items-center mt-3 px-3">
               <div className="flex-1">
                 <h3
-                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#007580]`}
+                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#272343]`}
                 >
                   Library Stool Chair
                 </h3>
@@ -266,7 +266,7 @@ const OurProducts = () => {
             <div className="flex items-center mt-3 px-3">
               <div className="flex-1">
                 <h3
-                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#007580]`}
+                  className={`text-[14px] sm:text-[16px] font-medium ${inter.className} text-[#272343]`}
                 >
                   Library Stool Chair
                 </h3>
