@@ -6,8 +6,7 @@ import cat3 from "@/app/public/cat3.png";
 import itemcard1 from "@/app/public/itemcard1.png";
 import cat1 from "@/app/public/cat1.png";
 import single from "@/app/public/single.png";
-import { Inter } from "next/font/google";
-const inter = Inter({ subsets: ["latin"] });
+
 import addto from "@/app/public/addto.png";
 
 const ProductPage = () => {
@@ -30,7 +29,7 @@ const ProductPage = () => {
             </h1>
 
             <p
-              className={` ${inter.className}  text-white w-[130px] p-1 text-center rounded-full text-[18px] font-semibold mt-4 bg-[#029FAE]`}
+              className="  text-white w-[130px] p-1 text-center rounded-full text-[18px] font-semibold mt-4 bg-[#029FAE]"
             >
               $20.00 USD
             </p>
@@ -48,7 +47,7 @@ const ProductPage = () => {
         {/* Featured Products */}
         <div className="mt-16">
           <div className="flex justify-between items-center">
-            <h2 className={`${inter.className} text-2xl font-bold text-black leading-[33.89px]`}>
+            <h2 className=" text-2xl font-bold text-black leading-[33.89px]">
               Featured Products
             </h2>
             <a href="#" className="text-black font-medium text-sm hover:underline">
@@ -70,11 +69,11 @@ const ProductPage = () => {
                   />
                 </div>
                 <div className="flex justify-between mt-3">
-                  <div className={`${inter.className} text-sm font-normal text-[#272343] h-[21px] w-[141px] leading-[20.08px text-[#272343]]`}>
+                  <div className=" text-sm font-normal text-[#272343] h-[21px] w-[141px] leading-[20.08px text-[#272343]]">
                     Library Stool Chair
                   </div>
                   
-                  <div className={`${inter.className} text-sm text-black w-[28px] h-[17px] font-bold `}>$99</div>
+                  <div className="text-sm text-black w-[28px] h-[17px] font-bold ">$99</div>
                 </div>
               </div>
 
@@ -88,10 +87,10 @@ const ProductPage = () => {
                   />
                 </div>
                 <div className="flex justify-between mt-3">
-                  <h3 className={`${inter.className} text-sm font-normal text-[#272343] h-[21px] w-[141px] leading-[20.08px text-[#272343]]`}>
+                  <h3 className=" text-sm font-normal text-[#272343] h-[21px] w-[141px] leading-[20.08px text-[#272343]]">
                     Office Chair
                   </h3>
-                  <p className={`${inter.className} text-sm text-black w-[28px] h-[17px] font-bold `}>$99</p>
+                  <p className="text-sm text-black w-[28px] h-[17px] font-bold ">$99</p>
                 </div>
               </div>
 
@@ -105,10 +104,10 @@ const ProductPage = () => {
                   />
                 </div>
                 <div className="flex justify-between mt-3">
-                  <h3 className={`${inter.className} text-sm font-normal text-[#272343] h-[21px] w-[141px] leading-[20.08px text-[#272343]]`}>
+                  <h3 className="text-sm font-normal text-[#272343] h-[21px] w-[141px] leading-[20.08px text-[#272343]]">
                     Dining Chair
                   </h3>
-                  <p className={`${inter.className} text-sm text-black w-[28px] h-[17px] font-bold `}>$99</p>
+                  <p className="text-sm text-black w-[28px] h-[17px] font-bold ">$99</p>
                 </div>
               </div>
 
@@ -122,10 +121,10 @@ const ProductPage = () => {
                   />
                 </div>
                 <div className="flex justify-between mt-3">
-                  <h3 className={`${inter.className} text-sm font-normal text-[#272343] h-[21px] w-[141px] leading-[20.08px text-[#272343]]`}>
+                  <h3 className=" text-sm font-normal text-[#272343] h-[21px] w-[141px] leading-[20.08px text-[#272343]]">
                     Lounge Chair
                   </h3>
-                  <p className={`${inter.className} text-sm text-black w-[28px] h-[17px] font-bold `}>$99</p>
+                  <p className="text-sm text-black w-[28px] h-[17px] font-bold ">$99</p>
                 </div>
               </div>
 
@@ -139,10 +138,10 @@ const ProductPage = () => {
                   />
                 </div>
                 <div className="flex justify-between mt-3">
-                  <h3 className={`${inter.className} text-sm font-normal text-[#272343] h-[21px] w-[141px] leading-[20.08px text-[#272343]]`}>
+                  <h3 className=" text-sm font-normal text-[#272343] h-[21px] w-[141px] leading-[20.08px text-[#272343]]">
                     Rocking Chair
                   </h3>
-                  <p className={`${inter.className} text-sm text-black w-[28px] h-[17px] font-bold `}>$99</p>
+                  <p className="text-sm text-black w-[28px] h-[17px] font-bold ">$99</p>
                 </div>
               </div>
             </div>

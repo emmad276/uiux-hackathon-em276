@@ -101,7 +101,7 @@ const CartPage = () => {
                 .toFixed(2)}
             </p>
           </div>
-          <Link href="/contact">
+          <Link href="/contact ">
           <button className="hover:bg-[#278088]  mt-6 w-full bg-[#029FAE] text-white py-3 rounded-full font-medium">
             Member Checkout
           </button>

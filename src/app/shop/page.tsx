@@ -1,10 +1,10 @@
 import React from "react";
 import Image from "next/image";
 
-import { Inter } from "next/font/google";
+
 
 import buy3 from "@/app/public/Buy 3.png";
-const inter = Inter({ subsets: ["latin"] });
+
 
 import { client } from "@/sanity/lib/client";
 import Link from "next/link";
@@ -33,7 +33,7 @@ export default async function ProductPage() {
   return (
     <div>
       <div className="w-[77.5%] mx-auto h-auto my-5 mt-17">
-        <h1 className={`h-[35px] font-semibold text-[32px] leading-[35.2px] text-[#272343]`}>
+        <h1 className="h-[35px] font-semibold text-[32px] leading-[35.2px] text-[#272343]">
           Best Selling Products
         </h1>
       </div>

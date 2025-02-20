@@ -1,12 +1,12 @@
 import React from "react";
 import Image from "next/image";
-import { Inter } from "next/font/google";
+
 import AddToCart from "@/app/components/addToCart";
 import { client } from "@/sanity/lib/client";
 import Link from "next/link";
 import FeaturedProducts from "@/app/components/Featured";
 
-const inter = Inter({ subsets: ["latin"] });
+
 
 interface Props {
   params: {
@@ -70,7 +70,7 @@ export default async function Page({ params }: Props) {
             </h1>
 
             <p
-              className={`${inter.className} text-white w-[130px] p-1 text-center rounded-full text-[18px] font-semibold mt-4 bg-[#029FAE]`}
+              className=" text-white w-[130px] p-1 text-center rounded-full text-[18px] font-semibold mt-4 bg-[#029FAE]"
             >
               ${product.price} USD
             </p>
@@ -88,7 +88,7 @@ export default async function Page({ params }: Props) {
         <div className="mt-16">
           <div className="flex justify-between items-center">
             <h2
-              className={`${inter.className} text-2xl font-bold text-black leading-[33.89px]`}
+              className="{inter.className} text-2xl font-bold text-black leading-[33.89px]"
             >
               Featured Products
             </h2>
