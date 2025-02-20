@@ -21,7 +21,7 @@ const ContactUs = () => {
       </div>
 
       {/* Main Content */}
-      <div className="flex flex-wrap lg:flex-nowrap gap-12 w-[90vw] lg:w-[77.5%] mx-auto mt-20">
+      <div className="flex flex-wrap lg:flex-nowrap gap-12 w-[90vw] lg:w-[77.5%] mx-auto mt-20 ">
         {/* Contact Details */}
         <div className="w-full   lg:w-1/2 space-y-8  flex flex-col lg:justify-normal justify-center">
           {/* Address */}

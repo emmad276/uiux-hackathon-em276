@@ -3,6 +3,8 @@ import Image from 'next/image';
 import { FaArrowRightLong } from "react-icons/fa6";
 import bg from "@/app/public/Product Image.png";
 import { Inter } from 'next/font/google';
+import line from "@/app/public/Line.png";
+import Link from 'next/link';
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -21,10 +23,10 @@ const Header = () => {
         >
           Best Furniture Collection for your interior.
         </h1>
-        <div className='mt-6 mx-auto md:mx-0 flex justify-center md:justify-start items-center w-[171px] h-[52px] rounded-lg py-[14px] px-[24px] gap-[20px] bg-[#029FAE] text-white'>
+        <Link href="/products" className='hover:bg-[#278088] mt-6 mx-auto md:mx-0 flex justify-center md:justify-start items-center w-[171px] h-[52px] rounded-lg py-[14px] px-[24px] gap-[20px] bg-[#029FAE] text-white'>
           <h1>Shop Now</h1>
           <FaArrowRightLong />
-        </div>
+        </Link>
       </div>
 
       {/* Image Section */}

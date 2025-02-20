@@ -8,6 +8,7 @@ import sprout from "@/app/public/Sprout.png";
 import large from "@/app/public/Large.png";
 import parent from "@/app/public/Parent.png";
 import pho from "@/app/public/Photo.png";
+import Link from "next/link";
 
 export default function HomePage() {
   return (
@@ -28,7 +29,7 @@ export default function HomePage() {
                 functionality.
               </p>
             </div>
-            <button className="bg-[#F9F9F926] w-full sm:w-[179px] mt-4 text-white px-6 py-2 rounded hover:bg-purple-600">
+            <button className="bg-[#F9F9F926] w-full sm:w-[179px] mt-4 text-white px-6 py-2 rounded hover:bg-white hover:text-[#007580]">
               View Collection
             </button>
           </div>
@@ -42,8 +43,8 @@ export default function HomePage() {
           <h2 className="text-2xl font-semibold mb-8 text-center text-[#272343]">
             What Makes Our Brand Different
           </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            <div className="p-4 rounded-lg bg-[#F9F9F9] text-center">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 ">
+            <Link href="#" className="p-4 rounded-lg bg-[#F9F9F9] text-center hover:shadow-2xl">
               <Image
                 src={delivery}
                 alt="Next day delivery"
@@ -55,8 +56,8 @@ export default function HomePage() {
               <p className="text-[#007580]">
                 Order before 2pm and get your chair the next day as standard.
               </p>
-            </div>
-            <div className="p-4 rounded-lg bg-[#F9F9F9] text-center">
+            </Link>
+            <Link href="#" className="p-4 rounded-lg bg-[#F9F9F9] text-center hover:shadow-2xl">
               <Image src={check} alt="Made by artisans" className="mx-auto" />
               <h3 className="font-medium mb-2 mt-2 text-[#007580]">
                 Made by true artisans
@@ -64,8 +65,8 @@ export default function HomePage() {
               <p className="text-[#007580]">
                 Handmade crafted goods made with passion and craftsmanship.
               </p>
-            </div>
-            <div className="p-4 rounded-lg bg-[#F9F9F9] text-center">
+            </Link>
+            <Link href="#" className="p-4 rounded-lg bg-[#F9F9F9] text-center hover:shadow-2xl">
               <Image
                 src={purchase}
                 alt="Unbeatable prices"
@@ -77,8 +78,8 @@ export default function HomePage() {
               <p className="text-[#007580]">
                 For a remarkable quality, you won’t find better prices anywhere.
               </p>
-            </div>
-            <div className="p-4 rounded-lg bg-[#F9F9F9] text-center">
+            </Link>
+            <Link href="#" className="p-4 rounded-lg bg-[#F9F9F9] text-center hover:shadow-2xl">
               <Image
                 src={sprout}
                 alt="Recycled packaging"
@@ -91,16 +92,16 @@ export default function HomePage() {
                 We use 100% recycled materials for packaging to ensure more
                 sustainability.
               </p>
-            </div>
+            </Link>
           </div>
         </div>
 
         {/* Popular Products Section */}
-        <div className="pt-8">
+        <div className="pt-9">
           <h2 className="text-2xl font-semibold mb-8 text-center lg:text-start text-[#272343]">Our Popular Products</h2>
           <div className="flex flex-wrap gap-6 lg:flex-nowrap space-y-5 lg:space-y-0">
             {/* First Card - Wider */}
-            <div className="w-full lg:w-[50%]">
+            <Link href="#" className="w-full lg:w-[50%] hover:transition-transform hover:transform hover:scale-105">
               <div className="overflow-hidden rounded-lg">
                 <Image
                   src={large}
@@ -114,10 +115,10 @@ export default function HomePage() {
                 </h3>
                 <p className="text-[#2A254B]">$99.00</p>
               </div>
-            </div>
+            </Link>
 
             {/* Second Card */}
-            <div className="w-full sm:w-[48%] lg:w-[25%]">
+            <Link href="#" className="w-full sm:w-[48%] lg:w-[25%] hover:transition-transform hover:transform hover:scale-105">
               <div className="overflow-hidden rounded-lg">
                 <Image
                   src={pho}
@@ -131,10 +132,10 @@ export default function HomePage() {
                 </h3>
                 <p className="text-[#2A254B]">$59.00</p>
               </div>
-            </div>
+            </Link>
 
             {/* Third Card */}
-            <div className="w-full sm:w-[48%] lg:w-[25%]">
+            <Link href="#" className="w-full sm:w-[48%] lg:w-[25%] hover:transition-transform hover:transform hover:scale-105">
               <div className="overflow-hidden rounded-lg">
                 <Image
                   src={parent}
@@ -148,7 +149,7 @@ export default function HomePage() {
                 </h3>
                 <p className="text-[#2A254B]">$59.00</p>
               </div>
-            </div>
+            </Link>
           </div>
         </div>
       </div>

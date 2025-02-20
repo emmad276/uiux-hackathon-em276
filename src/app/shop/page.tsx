@@ -43,7 +43,7 @@ export default async function ProductPage() {
     <div>
       <div className="w-[77.5%] mx-auto h-auto my-5 mt-17">
         <h1 className={`h-[35px] font-semibold text-[32px] leading-[35.2px] text-[#272343]`}>
-          All Products
+          Best Selling Products
         </h1>
       </div>
       <div className="flex justify-center mt-10">
