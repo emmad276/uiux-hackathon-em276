@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { FaArrowRightLong } from "react-icons/fa6";
 import bg from "@/app/public/Product Image.png";
 import { Inter } from 'next/font/google';
-import line from "@/app/public/Line.png";
+
 import Link from 'next/link';
 
 const inter = Inter({ subsets: ["latin"] });

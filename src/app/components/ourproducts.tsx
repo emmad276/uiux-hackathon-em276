@@ -1,15 +1,8 @@
 import React from "react";
 import Image from "next/image";
-import card1 from "@/app/public/card1.png";
-import card2 from "@/app/public/card2.png";
-import card3 from "@/app/public/card3.png";
-import card4 from "@/app/public/card4.png";
+
 import { Inter } from "next/font/google";
-import addcart1 from "@/app/public/addcart1.png";
-import addcart2 from "@/app/public/addcart2.png";
-import cat1 from "@/app/public/cat1.png";
-import itemcard4 from "@/app/public/itemcard4.png";
-import recard11 from "@/app/public/recard11.png";
+
 import { client } from "@/sanity/lib/client";
 import Link from "next/link";
 import buy3 from "@/app/public/Buy 3.png";
